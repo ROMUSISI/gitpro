@@ -4,3 +4,5 @@ console.log ('hello guys');
 const index = 1;
 
 console.log('This is version 3')
+
+console.log ('hello git clone. confirm sync')
